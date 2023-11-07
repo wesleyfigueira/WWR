@@ -46,6 +46,9 @@ border-radius: 5px;
 #hero-msg h4 {
     color: white;
 }
+#hero-img{
+    width: 100%;
+}
 .card-img, .mountains {
     width: 100%;
 }
